@@ -1,0 +1,16 @@
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\bin\Debug\net5.0\ComparandoSwitchCase.exe
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\bin\Debug\net5.0\ComparandoSwitchCase.deps.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\bin\Debug\net5.0\ComparandoSwitchCase.runtimeconfig.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\bin\Debug\net5.0\ComparandoSwitchCase.runtimeconfig.dev.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\bin\Debug\net5.0\ComparandoSwitchCase.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\bin\Debug\net5.0\ref\ComparandoSwitchCase.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\bin\Debug\net5.0\ComparandoSwitchCase.pdb
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.csproj.AssemblyReference.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.AssemblyInfoInputs.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.AssemblyInfo.cs
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.csproj.CoreCompileInputs.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ref\ComparandoSwitchCase.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.pdb
+C:\projetos\AMS\1ano\EstruturaSwitchCase\ComparandoSwitchCase\obj\Debug\net5.0\ComparandoSwitchCase.genruntimeconfig.cache
