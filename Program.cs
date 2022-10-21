@@ -8,7 +8,8 @@ namespace ComparandoSwitchCase
         {
             string nome;
             int mes;
-
+            
+            Console.WriteLine("WELCOME")
             Console.WriteLine("Olá qual é seu nome?");
             nome = Console.ReadLine();
 
